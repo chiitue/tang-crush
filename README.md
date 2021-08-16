@@ -10,19 +10,19 @@ Mở file config.js sửa nội dung theo mẫu
 const CONFIG = {
     introTitle: 'Babe à!',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
+    Mà sao anh cứ đi nhầm đường
+    Lạc vào tim em lẻ loi
     Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    btnIntro: 'dạaaaa',
+    title: 'Anh có iu em hongggg 😙',
+    desc: 'Anh có mún đi chơi với em honggg ',
+    btnYes: 'Tất nhiên là cóoo <33',
+    btnNo: 'Không, em gái à :3',
+    question:'vì sao zạ?',
+    btnReply: 'Gửi cho emiu <3',
+    reply: 'anh yeu em nhat maaaa <33333333',
+    mess: 'ỏ 🥴. iuanh 😘😘',
+    messDesc: 'inbox lun hẹn lịch đi chơi nhaaaa',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
